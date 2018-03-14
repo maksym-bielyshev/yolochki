@@ -2,16 +2,15 @@ body {
      font-family: 'PT Serif', serif;
 }
  #container {
-     font-size: 40px;
+     font-size: 2em;
      text-align: center;
-     height: 200px;
-     width: 400px;
+     height: 240px;
+     width: 240px;
      position: fixed;
      top: 50%;
      left: 50%;
      margin-top: -100px;
      margin-left: -200px;
-     background-color: blue;
 }
  a:link {
      color: black;
