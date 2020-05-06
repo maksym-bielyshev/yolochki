@@ -1,3 +1,3 @@
-# yolochki
+# Ёлочки
 
 http://yolochki.tk/
