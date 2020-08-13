@@ -1,3 +1,3 @@
 # Ёлочки
 
-http://yolochki.tk/
+http://yolochki.cf/
