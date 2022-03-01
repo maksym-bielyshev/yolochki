@@ -1,3 +1,3 @@
 # Ёлочки
 
-http://yolochki.tk/
+https://maksym-bielyshev.github.io/yolochki/index.html
